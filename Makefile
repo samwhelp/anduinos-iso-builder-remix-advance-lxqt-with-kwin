@@ -45,5 +45,5 @@ only-combine:
 
 
 tips-next-step:
-	@echo '[Next Step]: cd ~/work/anduinos-iso-builder-remix-prototype-lxqt-with-kwin/iso-profile'
+	@echo '[Next Step]: cd ~/work/anduinos-iso-builder-remix-advance-lxqt-with-kwin/iso-profile'
 .PHONY: tips-next-step
